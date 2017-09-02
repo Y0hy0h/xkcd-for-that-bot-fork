@@ -1,6 +1,6 @@
 {
   "name": "xkcd-search-bot",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Telegram bot for searching for revelant xkcd comics, inline.",
   "dependencies": {
     "lodash": "^4.17.4",
@@ -19,7 +19,9 @@
   "author": "GingerPlusPlus <woj.pawlik@gmail.com>",
   "license": "ISC",
   "private": true,
-  "engines": { "node": ">=8.1.3" },
+  "engines": {
+    "node": ">=8.1.3"
+  },
   "bugs": {
     "url": "https://github.com/GingerPlusPlus/xkcd-search-bot/issues"
   },
